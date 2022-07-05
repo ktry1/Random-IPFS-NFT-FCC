@@ -1,0 +1,9 @@
+TO DO LIST:
+
+create ERC721(NFT) contract to store NFTS; //use ownable extension
+Connect with ChainlinkVRF
+
+
+Create URIs for images (3 colored suns)
+Upload to IPFS(programmatically)
+
